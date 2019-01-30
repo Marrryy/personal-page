@@ -1,0 +1,29 @@
+{
+  "name": "personal-page",
+  "version": "1.0.0",
+  "description": "Marrryy's personal page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm run lite";
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrryy/personal-page.git"
+  },
+  "author": "Mary Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrryy/personal-page/issues"
+  },
+  "homepage": "https://github.com/Marrryy/personal-page#readme",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "bootstrap-social": "^5.1.1",
+    "browser-sync": "^2.26.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.4.0",
+    "popper.js": "^1.14.7"
+  }
+}
